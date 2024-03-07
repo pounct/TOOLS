@@ -2,28 +2,6 @@
 ## Comandos útiles de [Git y GitHub](GITIGITHUB.md).
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spring Projects</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin-top: 20px;
-        }
-
-        th, td {
-            border: 1px solid #dddddd;
-            text-align: left;
-            padding: 8px;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
 <body>
 
     <h1>Spring Projects List</h1>
@@ -62,7 +40,7 @@
     </table>
 
 </body>
-</html>
+
 
 
 # >spring project list               
