@@ -1,1 +1,1 @@
-
+### Podría usar gRPC para servicios internos que requieren un rendimiento optimizado y una comunicación binaria eficiente entre microservicios, mientras que podría optar por REST donde la interoperabilidad, la simplicidad y la facilidad de integración son más importantes, como en las interacciones con clientes web y móviles. Este enfoque híbrido le permite aprovechar los beneficios específicos de cada tecnología en función de las necesidades de cada departamento.
