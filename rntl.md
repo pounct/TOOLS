@@ -50,6 +50,4 @@
         <li><a href="https://thispersondoesnotexist.com/">Sitio "This Person Does Not Exist"</a></li>
         <li><a href="https://www.coursera.org/learn/deep-neural-network">Curso sobre Deep Learning</a></li>
     </ul>
-    <h2>Preguntas</h2>
-    <p>No dude en hacer preguntas adicionales si necesita más información.</p>
 </body>
