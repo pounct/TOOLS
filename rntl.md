@@ -1,4 +1,5 @@
-<h1>Redes neuronales, Transformers y LLMs: Una introducción</h1>
+<body>
+    <h1>Redes neuronales, Transformers y LLMs: Una introducción</h1>
 
     <p>Las redes neuronales son un tipo de algoritmo de aprendizaje automático inspirado en las neuronas biológicas del cerebro humano. Se pueden utilizar para una amplia gama de tareas, incluyendo:</p>
 
@@ -76,3 +77,4 @@
     <h2>Preguntas</h2>
 
     <p>No dude en hacer preguntas adicionales si necesita más información.</p>
+</body>
