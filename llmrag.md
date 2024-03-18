@@ -49,7 +49,7 @@ La generación de lenguaje natural (NLG) es un campo de la inteligencia artifici
 
 ¿Qué es IR?
 
-- La recuperación de información (IR) es un campo de la informática que se centra en el desarrollo de sistemas que pueden recuperar información de grandes conjuntos de datos. Los sistemas IR se utilizan en una variedad de aplicaciones, como:
+La recuperación de información (IR) es un campo de la informática que se centra en el desarrollo de sistemas que pueden recuperar información de grandes conjuntos de datos. Los sistemas IR se utilizan en una variedad de aplicaciones, como:
 
 - Motores de búsqueda
 - Sistemas de recomendación
@@ -57,11 +57,11 @@ La generación de lenguaje natural (NLG) es un campo de la inteligencia artifici
 
 ### ¿Qué es un VDBMS?
 
-- Una base de datos vectorial (VDBMS) es un tipo de base de datos que almacena datos en forma de vectores. Los VDBMS son especialmente útiles para la búsqueda semántica, que es el proceso de encontrar documentos que son relevantes para una consulta, incluso si la consulta no coincide exactamente con las palabras clave de los documentos.
+Una base de datos vectorial (VDBMS) es un tipo de base de datos que almacena datos en forma de vectores. Los VDBMS son especialmente útiles para la búsqueda semántica, que es el proceso de encontrar documentos que son relevantes para una consulta, incluso si la consulta no coincide exactamente con las palabras clave de los documentos.
 
 ### ¿Qué es la alucinación en los LLM?
 
-- La alucinación es un fenómeno que puede ocurrir cuando un LLM genera una respuesta que no es precisa o que no está respaldada por la evidencia. Esto puede suceder porque los LLM son sistemas probabilísticos y pueden cometer errores.
+La alucinación es un fenómeno que puede ocurrir cuando un LLM genera una respuesta que no es precisa o que no está respaldada por la evidencia. Esto puede suceder porque los LLM son sistemas probabilísticos y pueden cometer errores.
 
 ## Ejemplos de aplicaciones de RAG
 
