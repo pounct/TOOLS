@@ -5,3 +5,4 @@
 ## [Gestión dinámica](Gestióndinámicadeobjetoseintrospección.md) de objetos e introspección.
 ## Procesamiento del lenguaje natural ([PLN](nlp.md))
 ## [Redes neuronales, Transformers y LLMs.](rntl.md)
+## Retrieval-Augmented Generation [RAG](rag.md)
