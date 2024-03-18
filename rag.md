@@ -1,5 +1,6 @@
 
-# Generación Aumentada por Recuperación (RAG)
+# Generación Aumentada por Recuperación
+# Retrieval Augmented Generation  (RAG)
 - Consideremos que queremos preguntar al LLM sobre el contenido de un informe anual.
 
 - Aunque el modelo es capaz de comprender las instrucciones en el prompt, no tiene idea de lo que ha sucedido después de la fecha de su entrenamiento.
