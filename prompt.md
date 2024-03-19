@@ -44,4 +44,4 @@ El proceso de ingeniería de prompts se compone de las siguientes etapas:
 ### En resumen, la ingeniería de prompts es un proceso esencial para aprovechar al máximo los LLM. Al diseñar prompts efectivos, puede lograr que estos realicen una amplia gama de tareas con precisión y creatividad.
 
 Recursos adicionales:
-Prompt Engineering: A Guide to Creating Prompts for Large Language Models
+Prompt Engineering: [Prompt Engineering Guide](https://www.promptingguide.ai/)
