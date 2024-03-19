@@ -7,3 +7,4 @@
 ## [Redes neuronales, Transformers y LLMs.](rntl.md)
 ## Retrieval-Augmented Generation [RAG](rag.md)
 ## Limitaciones de los modelos de lenguaje grande (LLM) y la solución [RAG](llmrag.md)
+## Prompt Engineering (Ingeniería de Prompts): [Definición y Proceso](prompt.md)
